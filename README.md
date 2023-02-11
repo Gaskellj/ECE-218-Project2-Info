@@ -8,6 +8,8 @@
 
 [Report Format](Project_Information/Project-2-Report-Format.pdf)
 
+FYI - PDFs may not display in github but will download
+
 =======Current Objectives (2/11/2023)=======
 
 1. Begin Report Outline (James)
