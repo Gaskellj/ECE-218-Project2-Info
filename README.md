@@ -22,7 +22,7 @@ FYI - PDFs may not display in github but will download
 
 =======Current Objectives (2/11/2023)=======
 
-1. Begin Report Outline (James)
+1. Begin Report Outline + Set up github repo (James)
 2. Explore Servo Implementation + Gate Subsystem (Asher)
 3. Explore LCD Implementation (Farooq)
 
