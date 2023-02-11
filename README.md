@@ -2,9 +2,9 @@
 
 =============Project Info Links=============
 
-[Project Outline]
-[Deliverables]
-[Report Format]
+[Project Outline](Project_Information\)
+[Deliverables](Project_Information\)
+[Report Format](Project_Information\)
 
 
 =======Current Objectives (2/11/2023)=======
