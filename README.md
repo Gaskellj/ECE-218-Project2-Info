@@ -2,7 +2,7 @@
 
 =======Current Objectives (2/11/2023)=======
 
-1. Report Outline (James)
-2. Explore Servo Implementation (Asher)
+1. Begin Report Outline (James)
+2. Explore Servo Implementation + Gate Subsystem (Asher)
 3. Explore LCD Implementation (Farooq)
 
