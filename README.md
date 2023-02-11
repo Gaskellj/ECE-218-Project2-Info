@@ -1,6 +1,6 @@
 # ECE-218-Project2
 
-================Deliverables================
+==============Deliverables==============
 
 [Project Code]
 
