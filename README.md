@@ -1,5 +1,13 @@
 # ECE-218-Project2
 
+================Deliverables================
+
+[Project Code]
+
+[Report]
+
+[Video]
+
 =============Project Info Links=============
 
 [Project Outline](Project_Information/Project-2-Outline.pdf)
