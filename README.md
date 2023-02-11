@@ -2,10 +2,13 @@
 
 =============Project Info Links=============
 
-[Project Outline]
-[Deliverables]
-[Report Format]
+[Project Outline](Project_Information/Project-2-Outline.pdf)
 
+[Deliverables](Project_Information/Project-2-Deliverables.pdf)
+
+[Report Format](Project_Information/Project-2-Report-Format.pdf)
+
+FYI - PDFs may not display in github but will download
 
 =======Current Objectives (2/11/2023)=======
 
