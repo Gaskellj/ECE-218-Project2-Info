@@ -4,7 +4,7 @@
 
 [Project Code](ProjectCode)
 
-[Report]
+[Report](Project_2_Report.pdf)
 
 [Video]
 
