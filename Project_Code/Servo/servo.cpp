@@ -13,12 +13,12 @@ void servoInit()
     servo.write(DUTY_MIN);
 }
 
-void gateOpen()
+void gateRaise()
 {
     servo.write(DUTY_MAX/2);
 }
 
-void gateClose()
+void gateLower()
 {
     servo.write(DUTY_MIN);
 }
