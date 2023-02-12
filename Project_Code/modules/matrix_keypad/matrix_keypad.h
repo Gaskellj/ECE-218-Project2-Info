@@ -11,6 +11,7 @@
 
 void matrixKeypadInit( int updateTime_ms );
 char matrixKeypadUpdate();
+bool isCorrectCode();
 
 //=====[#include guards - end]=================================================
 
