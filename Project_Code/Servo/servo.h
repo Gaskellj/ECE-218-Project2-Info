@@ -10,8 +10,8 @@
 //=====[Declarations (prototypes) of public functions]=========================
 
 void servoInit();
-void gateOpen();
-void gateClose();
+void gateRaise();
+void gateLower();
 
 //=====[#include guards - end]=================================================
 
