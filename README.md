@@ -1,6 +1,6 @@
 # ECE-218-Project2
 
-==============Deliverables==============
+##Deliverables
 
 [Project Code](Project_Code)
 
@@ -25,6 +25,11 @@ FYI - PDFs may not display in github but will download
 1. Begin Report Outline + Set up github repo (James)
 2. Explore Servo Implementation + Gate Subsystem (Asher)
 3. Explore LCD Implementation (Farooq)
+
+============Meeting 2/12/2023)============
+
+1. Update file structure
+2. Work on servo and LCD code
 
 
 
