@@ -9,7 +9,7 @@
 [Video]
 
 
-============Project Info Links============
+## Project Links
 
 [Project Outline](Project_Information/Project-2-Outline.pdf)
 
@@ -19,19 +19,20 @@
 
 FYI - PDFs may not display in github but will download
 
+## Progress Tracking
 
-=======Current Objectives (2/11/2023)=======
+### Current Objectives (2/11/2023)
 
 1. Begin Report Outline + Set up github repo (James)
 2. Explore Servo Implementation + Gate Subsystem (Asher)
 3. Explore LCD Implementation (Farooq)
 
-============Meeting (2/12/2023)============
+### Meeting (2/12/2023)
 
 1. Update file structure
 2. Work on servo and LCD code
 
-=============Class (2/14/2023)=============
+### Class (2/14/2023)
 
 1. Add servo and LCD calls to the smart home system
 2. Add functionality to the uartTask for codes
