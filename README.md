@@ -3,8 +3,6 @@
 # [Project Link](https://github.com/Gaskellj/ECE-218-Project2.git)
 ## Deliverables
 
-[Project Code](Project_Code)
-
 [Report](Project_2_Report.pdf)
 
 [Video]
