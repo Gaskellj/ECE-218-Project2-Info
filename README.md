@@ -26,10 +26,16 @@ FYI - PDFs may not display in github but will download
 2. Explore Servo Implementation + Gate Subsystem (Asher)
 3. Explore LCD Implementation (Farooq)
 
-============Meeting 2/12/2023)============
+============Meeting (2/12/2023)============
 
 1. Update file structure
 2. Work on servo and LCD code
+
+=============Class (2/14/2023)=============
+
+1. Add servo and LCD calls to the smart home system
+2. Add functionality to the uartTask for codes
+3. Comment code (if we get up to there)
 
 
 
