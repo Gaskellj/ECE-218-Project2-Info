@@ -1,5 +1,6 @@
 # ECE-218-Project2
 
+# [Project Link](https://github.com/Gaskellj/ECE-218-Project2.git)
 ## Deliverables
 
 [Project Code](Project_Code)
@@ -10,8 +11,6 @@
 
 
 ## Project Links
-
-[Project Outline](Project_Information/Project-2-Outline.pdf)
 
 [Deliverables](Project_Information/Project-2-Deliverables.pdf)
 
