@@ -32,9 +32,10 @@
 
 ### Class (2/14/2023)
 
-1. Add servo and LCD calls to the smart home system
-2. Add functionality to the uartTask for codes
-3. Comment code (if we get up to there)
+1. Change the file structure to make the code runnable when cloned
+2. Add servo and LCD calls to the smart home system
+3. Add functionality to the uartTask for codes
+4. Comment code (if we get up to there)
 
 
 
