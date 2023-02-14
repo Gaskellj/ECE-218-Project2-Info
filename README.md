@@ -10,6 +10,8 @@
 
 ## Project Links
 
+[Outline](Project_Information/Project-2-Outline.pdf)
+
 [Deliverables](Project_Information/Project-2-Deliverables.pdf)
 
 [Report Format](Project_Information/Project-2-Report-Format.pdf)
