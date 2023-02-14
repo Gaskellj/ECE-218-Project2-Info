@@ -17,7 +17,6 @@
 
 [Report Format](Project_Information/Project-2-Report-Format.pdf)
 
-FYI - PDFs may not display in github but will download
 
 ## Progress Tracking
 
