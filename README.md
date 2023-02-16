@@ -49,7 +49,7 @@
 
 1. Continue with report
 2. Exhaustively test the system to check for bugs
-3.
+3. Added functionality to change the gate code in serial terminal
 
 
 
