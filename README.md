@@ -8,7 +8,7 @@
 [Video]
 
 
-## Project Links
+## Project Information Links
 
 [Outline](Project_Information/Project-2-Outline.pdf)
 
