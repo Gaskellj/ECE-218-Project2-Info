@@ -37,13 +37,19 @@
 3. Add functionality to the uartTask for codes
 4. Comment code (if we get up to there)
 
-### Meeting (2/16/2023)
+### Meeting (2/15/2023)
 
 1. Fix the bug that displays the last entered code on the LCD
 2. Create new state to lock out the user after 3 failed attempts
 3. Add a command to serial monitor to view the code
 4. Continue with report
 5. Discuss expectations for explanantional video
+
+### Class (2/16/2023)
+
+1. Continue with report
+2. Exhaustively test the system to check for bugs
+3.
 
 
 
