@@ -19,6 +19,16 @@
 
 ## Progress Tracking
 
+### [2/11/2023](StatusUpdates/2.11.2023.md)
+
+### [2/12/2023](StatusUpdates/2.12.2023.md)
+
+### [2/14/2023](StatusUpdates/2.14.2023.md)
+
+### [2/15/2023](StatusUpdates/2.15.2023.md)
+
+### [2/16/2023](StatusUpdates/2.16.2023.md)
+
 ### Current Objectives (2/11/2023)
 
 1. Begin Report Outline + Set up github repo (James)
